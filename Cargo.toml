@@ -1,0 +1,6 @@
+[package]
+name = "revolver"
+version = "0.1.0"
+authors = ["Scott Sanderson <ssanderson@quantopian.com>"]
+
+[dependencies]
